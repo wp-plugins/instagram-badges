@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Instagram Badges
-Plugin URI: http://sparanoid.com/lab/instagram-badge/
+Plugin URI: http://sparanoid.com/lab/instagram-badges/
 Description: Add Instagram badges to your WordPress blog. To help you link to and promote your Instagram profile.
 Version: 1.0
 Author: Tunghsiao Liu
