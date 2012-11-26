@@ -5,7 +5,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS
 Tags: widget, sidebar, button, badge, badges, instagram, css, javascript, multisite, wpmu
 Requires at least: 3.3.1
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,10 +42,16 @@ Old-styled WordPress Mu:
 
 == Changelog ==
 
+= 1.1 =
+* Update WordPress.org assets
+
 = 1.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 1.1 =
+* Update WordPress.org assets
 
 = 1.0 =
 * First release
