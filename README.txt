@@ -1,11 +1,11 @@
 === Instagram Badges ===
 
 Contributors: Sparanoid
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=VJRCEYRS8GTYE&lc=C2&item_name=Plugin%20Donation&button_subtype=services&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHosted
+Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, button, badge, badges, instagram, css, javascript, multisite, wpmu
 Requires at least: 3.3.1
 Tested up to: 3.5
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Old-styled WordPress Mu:
 
 == Changelog ==
 
+= 1.1.2 =
+* Update donate link, If you like this plugin, please consider buying me a cup of coffee.
+
 = 1.1.1 =
 * Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/instagram-badges/ props @lianghai
 
@@ -54,6 +57,9 @@ Old-styled WordPress Mu:
 * First release
 
 == Upgrade Notice ==
+
+= 1.1.2 =
+* Update donate link, If you like this plugin, please consider buying me a cup of coffee.
 
 = 1.1.1 =
 * Update plugin description and page design on sparanoid.com, check it out: http://sparanoid.com/work/instagram-badges/ props @lianghai
