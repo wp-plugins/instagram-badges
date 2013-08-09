@@ -3,7 +3,7 @@
 Plugin Name: Instagram Badges
 Plugin URI: http://sparanoid.com/work/instagram-badges/
 Description: Adds Instagram badges to your WordPress blog that will help you link to and promote your Instagram profile.
-Version: 1.1.3
+Version: 1.1.4
 Author: Tunghsiao Liu
 Author URI: http://sparanoid.com/
 Author Email: info@sparanoid.com
