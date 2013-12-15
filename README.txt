@@ -4,8 +4,8 @@ Contributors: Sparanoid
 Donate link: http://sparanoid.com/donate/
 Tags: widget, sidebar, button, badge, badges, instagram, css, javascript, multisite, wpmu
 Requires at least: 3.3.1
-Tested up to: 3.6
-Stable tag: 1.1.4
+Tested up to: 3.9
+Stable tag: 1.1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -44,6 +44,9 @@ Old-styled WordPress Mu:
 
 == Changelog ==
 
+= 1.1.5 =
+* Compatibility check for 3.7, 3.8, and 3.9 alpha, nothing new, just bump version to tell everyone this plugin still works.
+
 = 1.1.4 =
 * Compatibility check for 3.6, nothing new, just bump version to tell everyone this plugin still works.
 
@@ -63,6 +66,9 @@ Old-styled WordPress Mu:
 * First release
 
 == Upgrade Notice ==
+
+= 1.1.5 =
+* Compatibility check for 3.7, 3.8, and 3.9 alpha, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.1.4 =
 * Compatibility check for 3.6, nothing new, just bump version to tell everyone this plugin still works.
